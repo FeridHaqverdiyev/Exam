@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamFerid", "ExamFerid.csproj", "{007A1008-D574-4089-9355-81A8F4635112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{007A1008-D574-4089-9355-81A8F4635112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007A1008-D574-4089-9355-81A8F4635112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007A1008-D574-4089-9355-81A8F4635112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007A1008-D574-4089-9355-81A8F4635112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF86AF22-4ED3-4A18-A1A1-D9838900E1E9}
+	EndGlobalSection
+EndGlobal
